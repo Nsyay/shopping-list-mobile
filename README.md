@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Nama    : Ayu Siti Nasya N
+
+NPM     : 2206025426
+
+Kelas   : PBP A
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
