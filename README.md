@@ -1,5 +1,7 @@
 # shopping_list
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/0fdf4d82-37fe-4b88-9d5a-16c572fb8e8e/branches/master/badge)](https://appcenter.ms)
+
 A new Flutter project.
 
 Nama    : Ayu Siti Nasya N
